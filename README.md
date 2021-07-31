@@ -1,4 +1,6 @@
-# webplayer
+# Webplayer client
+This is the main part of my online music player made with the VueJS framework. To use it you need to run a server, which I added in a different repo.
+I'm not gonna lie, code is a little messy, but everybody has to start somewhere.
 
 ## Project setup
 ```
